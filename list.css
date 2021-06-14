@@ -1,0 +1,67 @@
+.back{
+    height: 70px;
+    width: 130px;
+    background-color: grey;
+    color: black;
+    border-radius: 15px;
+    font-size: large;
+    border-style: none;
+}
+
+.webpage{
+    text-align: center;
+    background-color: white;
+    margin-top: 60px;
+    padding-top: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 30px;
+    border-style: none;
+    padding-bottom: 40px;
+}
+
+body{
+    background-color: black;
+}
+
+.viewList{
+    height: 70px;
+    width: 130px;
+    background-color: grey;
+    color: black;
+    border-radius: 15px;
+    border-style: none;
+    font-size: large;
+}
+
+.forList{
+    background-color: white;
+    font-family: 'Staatliches', cursive;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    padding-top: 50px;
+    border-style: none;
+    border-radius: 30px;
+}
+
+.message{
+    font-family: 'Staatliches', cursive;
+}
+
+.back1{
+    height: 70px;
+    width: 130px;
+    background-color: grey;
+    color: black;
+    border-radius: 15px;
+    font-size: large;
+    border-style: none;
+    display: none;
+}
+
+.poster{
+    text-align: center;
+}
